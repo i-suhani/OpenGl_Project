@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1763974974 source:c:\users\acer\desktop\project_cg\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1389699172 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+893359800 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+893359800 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<GL/gl.h>
+
